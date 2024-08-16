@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Dhanak</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://d2f8l4t0zpiyim.cloudfront.net/000_clients/444829/page/444829xxxvz6Oy.gif" >
+<img align="right" alt="Coding" width="300" src="https://d2f8l4t0zpiyim.cloudfront.net/000_clients/444829/page/444829xxxvz6Oy.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldhanak11&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldhanak11" /> </p>
 
