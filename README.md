@@ -1,5 +1,3 @@
-![MasterHead](https://camo.githubusercontent.com/0f9c7f556ba59ee0de9e0efb4969ce47739602a75a9b579dd35121813d82fba9/68747470733a2f2f64726a706c6f7065732e636f6d2f6d656469612f426c6f6742616e6e6572732f48656c6c6f2d576f726c645f42616e6e65722e706e67)
-
 <h1 align="center">Hi 👋, I'm Rahul Dhanak</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/1a/bb/e9/1abbe9b61eac9e87c845c4f2e1ea1356.gif" >
