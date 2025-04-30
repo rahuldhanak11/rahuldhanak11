@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Dhanak</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Designer and Developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/1a/bb/e9/1abbe9b61eac9e87c845c4f2e1ea1356.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldhanak11&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldhanak11" /> </p>
